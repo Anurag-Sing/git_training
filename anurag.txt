@@ -4,3 +4,5 @@ i am learnig git but i dont knew the resource
 we will try to get things after hard reset
 
 we will learn merging now
+
+now we will learn divergent merge
